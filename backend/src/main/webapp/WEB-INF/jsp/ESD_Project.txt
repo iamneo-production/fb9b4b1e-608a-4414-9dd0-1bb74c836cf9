@@ -1,0 +1,20 @@
+Name: Vamsi Krishna Poluru
+NUID: 002924538
+
+I am planning to develop an web 2.0 application for job search application similar to naukri or linkedin. This application will contain more than one role and some of them as of now I can discuss are the recruiters or the employers and the applicant or person looking for the jobs.
+
+The activities of the recruiter are posting the jobs, removing the jobs after the requirement is met, selecting the certain percent of candidates based on the skill set match, contacting the applicants, viewing the applicant profile, tracking the applications process.
+
+The activities of the applicant are looking the jobs, comparing the skill set by the match percentages, apply for the job, creating a profile, sign up and signing in.
+
+This is the idea I came up with and wth the time, I may add some more features and enhance the requirements. 
+
+I hereby declare that this project is my own work, that is authentic, and no part of this project has been taken any online or offline resources.
+If this project is found not to be authentic, I take full responsibility.
+
+And, I have read the the guidelines as stated on the following page:
+https://osccr.sites.northeastern.edu/academic-integrity-policy/
+
+And, I am aware of the consequences of not complying with the policy.
+
+Digital Signature Vamsi Krishna Poluru
